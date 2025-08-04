@@ -1,0 +1,194 @@
+PYTHON:
+
+What to learn:
+    syntax and data types: integers, strings, lists, dictionaries.
+    Flow Control: if-else, loops.
+    Functions and modules
+    OOPS:classes, objects
+    File I/O (reading/writing files)
+    Virtual environments and package managers(pip, venv)
+
+why?
+    All modern AI tools and implemented in python (with libraries like SCIKIT-LEARN, PYTORCH, TENSORFLOW)
+
+
+Best Resources?
+    Automate the Boring Stuff with Python
+    freecodecamp python full course 
+    python for data science - data school
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
+MATHEMATICS FOR AI:
+
+
+What to learn?
+    Linear Algebra: Vectors, dot product, matrices, eigenvalues.
+    Probability: events, conditional probability, distributions.
+    Statistics: mean, variance, standard deviation, hypothesis testing.
+    Calculus: derivatives and gradients(just enough for understanding optimization)
+
+
+why?
+    Math help you understand why models work, tune them and interpret the results
+
+For Example?
+    Gradient: for backpropagation
+    Vectors/matrices: for representing data and parameters.
+    probability: for understanding uncertainty and loss Functions.
+
+
+Best Resources?
+    3Blue1Brown: Essence of Lineaar Algebra 
+    3Blue1Brown: Essence of Calculus
+    StatQuest - Statistics
+    Khan Academy : Linear algebra and probability
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+DATA SKILLS:
+
+What to learn?
+    Reading/writing CSV and JSON
+    Data Cleaning: Missing values, outliers
+    Feature Engineering: Encoding categoriacal data, scaling features.
+    Visualization: Histograms, scatterplots, boxplots
+
+
+why?
+    Real-worlddata is messy: Understanding and cleaning it is 80%  the job
+
+
+Best Resources?
+    Pandas -- freecodecamp
+    Data Analysis with Python
+    Kaggle micro-cources: Python and Pandas
+
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+MACHINE LEARNING (ML)
+
+What to learn?
+    What is supervised and unsupervised learning?
+    Dataset Splits: Training / validation / test
+    Evaluation Metrics: accuracy, precision, recall, F1, ROC-AUC.
+    Bias-variance trade-off and overfitting
+
+
+why?
+    without these, you can't judge model proformance or fix problems
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+ML ALGORITHMS:
+    Regression: Linear and logistic
+    Classification: Decision trees, Random forest, svm
+    Clustering: k-means, DBSCAN
+    Dimensionality reduction: PCA
+
+Why?
+    These algorthims from the toolkit for solving most problems
+
+Best Resources?
+    Andrew Ng's ML -- Coursera (classic) --books
+    StatQuest ML Playlist
+    Book : Hands on Machine learning with SCIKIT-LEARN, KERAS and TENSOR FLOW
+
+Practice?
+    Use SCIKIT- LEARN to run models on real datasets (Titanic, iris,MNIST)
+    Join beginner Kaggle competitions
+
+------------------------------------------------------------------------------------------------------------------------------
+
+
+DEEP LEARNING (DL)
+
+NEURAL NETWORK BASICS:
+
+What to Learn?
+    Perceptions and multi-layer networks
+    Activation function: ReLU, sigmoid, softmax
+    Loss Functions: MSE, Cross-entropy
+    Gradient Descent and Backpropagation
+
+Why?
+    These are the foundation of all deep models
+
+
+DEEP LEARNING ARCHITECTURES:
+
+What to learn?
+    CNNs: For images (Convolutions and pooling)
+    RNNs and LSTMs: for seuqences and time series
+    Transformers: for NLP(attention mechanism, encoder-decoder)
+
+Best Resources?
+    DEEP LEARNING Specialization -- Coursera
+    Neural Networks -- 3Blue1Brown
+    PYTORCH Crash Course -- freecodecamp
+    Book : DEEP LEARNING with Python by Francois chollet
+
+
+Practice?
+    Build and train models on MNIST, CIFAR-10, IMDB sentiment datasets
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+SPECIALIZATION:
+
+NATURAL LANGUAGE PROCESSING (NLP)
+
+What to learn?
+    Tokenization and embeddings (word2vec, GloVe, BERT)
+    Text Classification, translation, question answeering
+    Transformers and LLMs
+
+Why?
+    NLP Powers chatbots, translators, and search engines
+
+Best Resources?
+    NLP Specialization -- Coursera
+    Hugging Face Transformers course
+    NLP Tutorials -- Codebascis
+
+
+COMPUTER VISION:
+    Image Classification, segmentation
+    Object detection:YOLO, Faster-RCNN
+    GANs for image generation
+
+Best Resources?
+    CS231n -- stanford
+    Deep Learning for CV -- freecodecamp
+
+
+TIME- SERIES AND REINFORCEMENT LEARNING
+
+What to Learn?
+    Forecasting with LSTMs, ARIMA
+    Agents, rewards, Q-learning, policy gradients.
+
+Best Resources?
+    Time Series Forecasting -- freecodecamp
+    Deep RL --David Silver's UCL Course
+
+
+
+PROJECTS AND PORTFOLIO:
+
+Example Projects?
+    ML : Predict housing pricesor customer chum
+    NLP : Sentiment analysis or a chatbot 
+    CV : Classify handwritten digits or detect faces
+    DL : Generate images with a GAN or translate Text
+    RL : Train a game-playing Agents
+
+
+Showcase?
+    Publish projects on github 
+    Write blogs on medium or hashnode
+    Compete on kaggle 
+    
